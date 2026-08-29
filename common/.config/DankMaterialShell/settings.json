@@ -17,7 +17,6 @@
   "widgetBackgroundColor": "s",
   "cornerRadius": 12,
   "clockFormat": "24h",
-  "nightModeEnabled": true,
   "animationSpeed": 4,
   "customAnimationDuration": 50,
   "popoutAnimationSpeed": 4,
