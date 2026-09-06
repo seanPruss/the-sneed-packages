@@ -154,7 +154,7 @@
   "batterySuspendTimeout": 300,
   "batteryProfileName": "1",
   "batteryNotifyChargeLimit": true,
-  "batteryNotifyLow": true,
+  "batteryCriticalThreshold": 20,
   "batteryChargeLimitNotificationType": 1,
   "batteryLowNotificationType": 1,
   "lockBeforeSuspend": true,
@@ -421,5 +421,5 @@
   "frameOpacity": 0.5,
   "frameShowOnOverview": true,
   "frameLauncherArcExtender": true,
-  "configVersion": 16
+  "configVersion": 18
 }
